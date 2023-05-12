@@ -1,0 +1,11 @@
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(1, 'Jose Almeida Caetano', true, 150.0, '100010', '1992-05-24');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(2, 'Maria Cristina dos Santos', false, 120.0, '100011', '1986-05-25');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(3, 'Mauro Rocha Pereira', false, 90.0, '100012', '1982-06-13');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(4, 'Amanda Costa da Silva', true, 130.0, '100013', '1984-01-20');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(5, 'Joaquim Ferreira Neto', true, 180.0, '100014', '1973-10-19');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(6, 'Daniela Cardoso Prado', false, 110.0, '100015', '1993-12-07');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(7, 'Antonio José Isauro', true, 155.0, '100016', '1979-02-05');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(8, 'Ricardo Pateholt de Albuquerque', true, 290.0, '100017', '1984-03-26');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(9, 'Vanessa Candido Espinoza', true, 190.0, '100018', '1986-11-04');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(10, 'Eduardo Marcos de Souza', false, 150.0, '100019', '1997-08-09');
+INSERT INTO cliente (id, nome, exclusivo, saldo, numero_conta, data_nascimento) VALUES(11, 'Regina Lima Baltazar', true, 230.0, '100020', '1989-03-17');
